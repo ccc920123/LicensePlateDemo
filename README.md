@@ -3,7 +3,9 @@
 号牌识别，支持新能源车，离线版
 ## 使用方式：
  **1**：下载aar 包
+
 [licenseplatelib-v1.0.aar](https://github.com/ccc920123/LicensePlateDemo/blob/master/downloads/licenseplatelib-v1.0.aar?raw=true)
+
 **2**：由于library包含so 需要在 app 的build.gradle中添加<br/>
 ndk的支持
 
