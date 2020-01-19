@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <bitmap android:src="@mipmap/seekbar_bg_pic" />
+    </item>
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <solid android:color="#2bac2d" />
+            </shape>
+        </clip>
+    </item>
+</layer-list>
