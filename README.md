@@ -4,6 +4,7 @@
 ## 使用方式：
 <br/>
  **1**：下载aar 包
+ 
 <br/>
 [licenseplatelib-v1.0.aar](https://github.com/ccc920123/LicensePlateDemo/blob/master/downloads/licenseplatelib-v1.0.aar?raw=true)
 
