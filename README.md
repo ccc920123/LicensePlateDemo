@@ -19,7 +19,7 @@ ndk的支持
 **3**：调用方法：
 <br/>
 ```java
-LPalte.openScanPlate(this, 666);//第一个参数就是activity的上线文，第二个参数是requestCode 我填写的666
+LPalte.openScanPlate(this, 666);//第一个参数就是activity的上下文，第二个参数是requestCode 我填写的666
 ```
 **4**：重写onActivityResult 方法
 ```java
