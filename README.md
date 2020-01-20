@@ -29,7 +29,7 @@ LPalte.openScanPlate(this, 666);//第一个参数就是activity的上线文，�
         super.onActivityResult(requestCode, resultCode, data);
 
 
-        if (resultCode == RESULT_OK && requestCode == LICESECODE && data != null) {
+        if (resultCode == RESULT_OK && requestCode == 666 && data != null) {
             String hphm = data.getCharSequenceExtra("number").toString();
             String hpzl = data.getCharSequenceExtra("hpzl").toString();
             String color = data.getCharSequenceExtra("color").toString();
